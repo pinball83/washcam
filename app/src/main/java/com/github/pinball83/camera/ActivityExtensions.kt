@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.pinbal83.camera
+package com.github.pinball83.camera
 
 import android.widget.Toast
 import androidx.fragment.app.FragmentActivity

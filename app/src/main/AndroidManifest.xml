@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.github.pinbal83.camera">
+    package="com.github.pinball83.camera">
 
     <uses-permission android:name="android.permission.CAMERA" />
 
@@ -28,7 +28,7 @@
         android:icon="@drawable/ic_launcher"
         android:theme="@style/MaterialTheme">
 
-        <activity android:name="com.github.pinbal83.com.github.pinball83.camera.CameraActivity"
+        <activity android:name="com.github.pinball83.camera.CameraActivity"
                   android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

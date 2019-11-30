@@ -1,4 +1,4 @@
-package com.github.pinbal83.camera
+package com.github.pinball83.camera
 
 import android.util.Size
 import java.lang.Long.signum
